@@ -58,6 +58,6 @@ document_outline: |
 
 document: 
   repo: https://github.com/williamcaban/multilingual-lab.git
-  commit: 
+  commit: 4d46279f8cbf5fadff63bd6c4327a6d38c46c6a5
   patterns:
   - "fr/snsm-dossier-presse-2025.pdf"
