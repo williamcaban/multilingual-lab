@@ -1,0 +1,63 @@
+version: 3
+domain: sea rescuers
+created_by: rhelai_bu
+seed_examples:
+    - context: |
+        Face à l'évolution du profil des sauveteurs, conjuguée à un accroissement des exigences réglementaires, la SNSM a lancé, depuis 2018, le déploiement d'un plan de formation ambitieux. Ainsi, à horizon 2025 : 100 % des sauveteurs nageurs et plongeurs de bord seront qualifiés ; 90 % des sauveteurs embarqués (contre 70 % aujourd'hui) disposeront des qualifications aux premiers secours ; 70 % à 80 % des patrons seront formés à la navigation opérationnelle et aux opérations de recherche et de sauvetage de personnes ; au moins 50 % des sauveteurs auront suivi une formation aux techniques individuelles de survie et à la lutte contre l'incendie. L'ambition : garantir la sécurité et l'efficacité de la mission et couvrir l'ensemble des besoins en formation.
+      questions_and_answers:
+        - question: Quels sont les objectifs du plan de formation de la SNSM pour 2025 ?
+          answer: Les objectifs du plan de formation pour 2025 incluent 100 % des sauveteurs nageurs et plongeurs qualifiés, 90 % des sauveteurs embarqués formés aux premiers secours, et 70 % à 80 % des patrons formés à la navigation opérationnelle.
+        - question: Depuis quand la SNSM a-t-elle lancé son plan de formation ambitieux ?
+          answer: La SNSM a lancé son plan de formation ambitieux en 2018.
+        - question: Quelles compétences supplémentaires les sauveteurs doivent-ils acquérir d'ici 2025 ?
+          answer: Les sauveteurs doivent acquérir des compétences en techniques de survie et en lutte contre l'incendie d'ici 2025.
+
+    - context: |
+        Les missions de la SNSM s'articulent autour de trois axes principaux : sauver, former et prévenir. En 2023, les sauveteurs embarqués et les nageurs sauveteurs ont réalisé 9 256 interventions et pris en charge près de 30 000 personnes, comprenant le secours, les soins et la recherche d'enfants égarés sur les plages.
+      questions_and_answers:
+        - question: Quelles sont les trois missions principales de la SNSM ?
+          answer: Les trois missions principales de la SNSM sont de sauver des vies, de former les sauveteurs et de prévenir les risques en mer.
+        - question: Combien d'interventions ont été réalisées par la SNSM en 2023 ?
+          answer: En 2023, la SNSM a réalisé 9 256 interventions.
+        - question: Combien de personnes ont été prises en charge en 2023 par la SNSM ?
+          answer: En 2023, la SNSM a pris en charge près de 30 000 personnes.
+
+    - context: |
+        La flotte de la SNSM comprend 756 embarcations, allant du navire de sauvetage hauturier aux scooters des mers. Avec un âge moyen de 19 ans, elle est en cours de renouvellement pour améliorer la sécurité et l'efficacité des interventions. Ce programme inclut des navires modernes conçus avec des équipements technologiques avancés, comme des systèmes de communication intégrés et des drones marins.
+      questions_and_answers:
+        - question: Combien d'embarcations comprend la flotte de la SNSM ?
+          answer: La flotte de la SNSM comprend 756 embarcations.
+        - question: Quel est l'âge moyen des embarcations de la SNSM ?
+          answer: L'âge moyen des embarcations de la SNSM est de 19 ans.
+        - question: Quels équipements technologiques sont prévus pour les nouveaux navires ?
+          answer: Les nouveaux navires sont prévus avec des équipements technologiques avancés comme des systèmes de communication intégrés et des drones marins.
+
+    - context: |
+        La SNSM est une association reconnue d'utilité publique, financée à plus de 70 % par des ressources privées, notamment la générosité du public et des entreprises mécènes. Les dons permettent de financer la flotte, les infrastructures, la formation des sauveteurs et l'achat d'équipements.
+      questions_and_answers:
+        - question: Quelle part des financements de la SNSM provient de ressources privées ?
+          answer: Plus de 70 % des financements de la SNSM proviennent de ressources privées.
+        - question: Quels éléments sont financés grâce aux dons ?
+          answer: Les dons financent la flotte, les infrastructures, la formation des sauveteurs et l'achat d'équipements.
+        - question: Quelle est la reconnaissance publique de la SNSM ?
+          answer: La SNSM est reconnue d'utilité publique.
+
+    - context: |
+        En parallèle des interventions en mer, la SNSM sensibilise le grand public à la prévention des risques en mer. En 2023, 210 000 bracelets d'identification pour enfants ont été distribués sur les plages, et des actions telles que des ateliers de sensibilisation et des visites de courtoisie ont été organisées pour informer sur les bonnes pratiques.
+      questions_and_answers:
+        - question: Combien de bracelets d'identification ont été distribués en 2023 par la SNSM ?
+          answer: En 2023, 210 000 bracelets d'identification pour enfants ont été distribués par la SNSM.
+        - question: Quelles actions de sensibilisation la SNSM organise-t-elle ?
+          answer: La SNSM organise des ateliers, des visites de courtoisie et distribue des bracelets d'identification.
+        - question: Quel est l'objectif des actions de prévention de la SNSM ?
+          answer: L'objectif des actions de prévention de la SNSM est de sensibiliser le public aux risques en mer et de promouvoir les bonnes pratiques.
+
+document_outline: |
+  La Société nationale de sauvetage en mer (SNSM) a pour vocation de secourir toute personne en danger en mer et sur les côtes, en France métropolitaine et Outre-mer. Elle est la seule structure qui dispose des compétences et qualifications nécessaires pour intervenir conjointement depuis la plage jusqu’au large.
+  Les sauveteurs embarqués de la SNSM sont le premier maillon de la chaîne de secours des personnes se trouvant en situation de naufrage réel ou potentiel. Leur réactivité, leur savoir-faire, leur connaissance très fine des zones de navigation, leurs équipements et leurs compétences en gestion des opérations de sauvetage sont primordiaux pour qu’ils puissent mener à bien leurs missions.
+
+document: 
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: 
+  patterns:
+  - "fr/snsm-dossier-presse-2025.pdf"
