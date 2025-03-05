@@ -1,0 +1,88 @@
+---
+version: 3
+domain: data privacy Mexico
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      Artículo 1. El presente Manual es de observancia general y obligatoria para las Secretarías Ejecutiva y Técnica, Contraloría, Oficina de Información Pública, las unidades administrativas, y los Integrantes del Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+      El propósito del Manual es establecer las reglas mediante las cuales se organiza y funciona el Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, a fin de cumplir con sus responsabilidades encomendadas en la ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+      
+    questions_and_answers:
+      - question: ¿Para qué áreas o entidades aplica el Manual según se especifica en el Artículo 1?
+        answer: El Manual es de observancia general y obligatoria para las Secretarías Ejecutiva y Técnica, Contraloría, Oficina de Información Pública, las unidades administrativas, y los Integrantes del Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+      - question: ¿Cuál es el propósito del Manual?
+        answer: El propósito del Manual es establecer las reglas mediante las cuales se organiza y funciona el Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, a fin de cumplir con sus responsabilidades encomendadas en la ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+      - question: ¿Qué institución emite el Comité de Transparencia mencionado en el Manual?
+        answer: El Comité de Transparencia mencionado en el Manual pertenece al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+
+  - context: |
+      Artículo 8. Los miembros del Comité podrán ser suplidos en sus funciones por el servidor público que ocupe el nivel jerárquico inmediato inferior, previa comunicación al Presidente del Comité, los cuales tendrán derecho a voz y voto. El Contralor invariablemente deberá asistir a la Sesiones del Comité.
+      
+    questions_and_answers:
+      - question: ¿Podrán los miembros del Comité ser reemplazados en sus funciones y por quién?
+        answer: Sí, los miembros del Comité podrán ser reemplazados en sus funciones por el servidor público que ocupe el nivel jerárquico inmediato inferior.
+      - question: ¿Qué derecho tendrán las personas que suplanten a los miembros del Comité?
+        answer: Las personas que suplanten a los miembros del Comité tendrán derecho a voz y voto dentro de la sesión.
+      - question: ¿Quién debe asistir invariablemente a las sesiones del Comité según el artículo?
+        answer: El Contralor debe asistir invariante y sin excepción a todas las sesiones del Comité según el artículo.
+
+  - context: |
+      Articulo 11. Las sesiones se desarrollarán de acuerdo con lo siguiente:
+      I. Verificación del quórum;
+      II. Presentación y aprobación del orden del día;
+      III. Presentación, discusión de los asuntos propuestos, y
+      IV. Aprobación de los acuerdos.
+      Las sesiones-darán inicio en la hora y fecha indicadas, teniendo una tolerancia de 20 minutos para que se integre el quórum. Si transcurrido dicho término no se reúne el quórum, se procederá a iniciar la sesión con los integrantes presentes.
+      
+    questions_and_answers:
+      - question: ¿Qué elementos deben considerarse en las sesiones según el artículo 11?
+        answer: Según el artículo 11, las sesiones deben incluir la verificación del quórum, la presentación y aprobación del orden del día, la presentación y discusión de los asuntos propuestos, y la aprobación de los acuerdos.
+      - question: ¿Cuál es el límite de tolerancia para que se integre el quórum según la regla mencionada en el artículo 11?
+        answer: Según el artículo 11, las sesiones tendrán una tolerancia de 20 minutos para que se integre el quórum.
+      - question: ¿Qué ocurre si no se reúne el quórum a pesar de la tolerancia dada en las sesiones?
+        answer: Si transcurrido el término de 20 minutos no se reúne el quórum, se procederá a iniciar la sesión con los integrantes presentes según lo estipulado en el artículo 11.
+
+  - context: |
+      Articulo 20. Son funciones de los titulares de las unidades administrativas
+      I. Proponer, de manera fundada y motivada, la clasificación de información o la declaratoria de inexistencia;
+      II. Incorporar las consideraciones emitidas por el Comité en las respuestas con las que sustentan la clasificación de información;
+      III. Realizar una búsqueda exhaustiva, previo a proponer la inexistencia de la información;
+      IV. Proponer al Comité un posible plazo con el que se atendería la generación de la información;
+      V. Apoyar en todo aquello que proponga el Comité para el cumplimiento de lo establecido en el artículo 61 de la Ley, y
+      VI. Las demás que le encomiende el Comité;
+      
+    questions_and_answers:
+      - question: ¿Cuáles son las funciones específicas de los titulares de las unidades administrativas según el artículo 20?
+        answer: Las funciones específicas incluyen proponer la clasificación de información o declaratoria de inexistencia de manera fundada y motivada, incorporar consideraciones del Comité en respuestas sobre la clasificación de información, realizar una búsqueda exhaustiva antes de proponer la inexistencia de la información, proponer un posible plazo al Comité para atender la generación de la información, apoyar en todo lo que propone el Comité para cumplir con las disposiciones del artículo 61 de la Ley, y realizar otras tareas que le encomiende el Comité.
+      - question: ¿Qué debe hacer el titular de las unidades administrativas antes de proponer la inexistencia de la información?
+        answer: Antes de proponer la inexistencia de la información, el titular de las unidades administrativas debe realizar una búsqueda exhaustiva.
+      - question: ¿Qué otras tareas pueden asignarse a los titulares de las unidades administrativas según el artículo 20?
+        answer: Los titulares de las unidades administrativas también pueden ser encomendadas otras funciones por el Comité.
+
+  - context: |
+      Articulo 22. Son obligaciones de los integrantes del Comité:
+      I. Asistir a las sesiones del Comité;
+      II. Sugerir al Presidente del Comité asuntos para tratarse en las sesiones del Comité;
+      III. Intervenir en las discusiones del Comité;
+      IV. Emitir su voto respecto a los asuntos tratados en las sesiones;
+      V. Suscribir las actas, acuerdos y resoluciones aprobados por el Comité;
+      VI. Realizar las tareas que le sean encomendadas por el Comité e informar del avance y cumplimiento de las mismas;
+      VII. Vigilar que se dé cumplimiento al programa de trabajo y a los acuerdos y resoluciones aprobadas por el Comité, y
+      VIII. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar, deban estar presentes en las sesiones del Comité.
+      IX. Los integrantes del Comité promoverán, en el ámbito de sus respectivas competencias, la coordinación e implementación de las acciones derivadas de los acuerdos tomados.
+      
+    questions_and_answers:
+      - question: ¿Cuáles son las obligaciones del Comité en la asistencia a sus sesiones?
+        answer: Son obligaciones de los integrantes del Comité asistir a las sesiones del Comité.
+      - question: ¿Qué tipo de tareas pueden encomendársele al Comité a sus integrantes?
+        answer: Los integrantes del Comité deben realizar las tareas que le sean encomendadas por el Comité e informar del avance y cumplimiento de las mismas.
+      - question: ¿En qué ámbito podrían promover la coordinación e implementación de acciones derivadas de los acuerdos tomados los integrantes del Comité?
+        answer: Los integrantes del Comité podrán promover, en el ámbito de sus respectivas competencias, la coordinación e implementación de las acciones derivadas de los acuerdos tomados.
+
+document_outline: |
+  Manual de Integración y Operación del Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal. Este documento establece los procedimientos y lineamientos que rigen el funcionamiento del Comité de Transparencia dentro del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "mx/MIOCTRANSP.pdf"
