@@ -9,7 +9,7 @@ seed_examples:
       2. Autonomía profesional del magisterio, para tomar decisiones relativas a la contextualización de los contenidos de los programas de estudio, de acuerdo con la realidad social, territorial, cultural y educativa de las y los estudiantes.
       3. La comunidad como núcleo integrador de los procesos de enseñanza y aprendizaje, y de las relaciones de la escuela con la sociedad, donde se construyen y comparten saberes, valores, normas, culturas y formas de convivencia.
       4. El derecho humano a la educación de las y los estudiantes como prioridad del Sistema Educativo Nacional.
-      
+
     questions_and_answers:
       - question: ¿Cuántos elementos tiene la propuesta curricular mencionada en el texto?
         answer: La propuesta curricular se estructura con cuatro elementos.
@@ -21,7 +21,7 @@ seed_examples:
   - context: |
       La integración curricular en, desde y con las diversidades En la educación básica, los PPE de las décadas recientes privilegiaron una estructura basada en la fragmentación disciplinar del conocimiento, dividida en espacios curriculares que no tenían contacto entre sí. Esta estructura dificultaba la integración, apropiación y profundización de conocimientos y saberes en los procesos de enseñanza y aprendizaje, además de hacer compleja su vinculación con las experiencias de NNA y docentes.
       Por otro lado, se priorizaron ciertos espacios curriculares con una distribución de tiempos lectivos inequitativos; por ejemplo, a partir de 2004, en preescolar, el mayor énfasis en tiempo lectivo era para Lenguaje y Comunicación. En primaria y secundaria, las asignaturas predominantes desde 1993 fueron Español y Matemáticas, con la mayor cantidad de horas lectivas semanales y anuales frente al resto de las asignaturas. Esta preferencia se legitimaba con la implementación de evaluaciones estandarizadas y la presión social ejercida por familias y autoridades educativas.
-      
+
     questions_and_answers:
       - question: ¿Qué tipo de estructura curricular se favoreció con los PPE en las décadas recientes?
         answer: En las décadas recientes, se favoreció una estructura basada en la fragmentación disciplinar del conocimiento, dividida en espacios curriculares que no tenían contacto entre sí.
@@ -33,7 +33,7 @@ seed_examples:
   - context: |
       La nueva propuesta curricular es una excelente oportunidad para que los maestros de México gocemos del pleno ejercicio de nuestra autonomía y diseñemos propuestas encaminadas a que los jóvenes de nuestro país alcancen diversos procesos de desarrollo de aprendizaje, partiendo de sus necesidades, gustos e inquietudes como integrantes de un contexto cercano, lo que a su vez impacta en el desarrollo de los procesos mundiales.
       Esta propuesta representa también la oportunidad para que las y los docentes desarrollemos la creatividad y determinemos los contenidos que habrán de abordarse en las aulas, con el objetivo de que los jóvenes aprendan lo que requieren para atender problemáticas que experimentan en su cotidianeidad y, de esta manera, adquiera sentido su aprendizaje, lo cual les permitirá resolver problemas en su vida diaria mediante el trabajo colaborativo y el sentido de pertenencia del contexto en el que viven.
-      
+
     questions_and_answers:
       - question: ¿Qué oportunidad proporciona la nueva propuesta curricular para los maestros de México?
         answer: La nueva propuesta curricular es una excelente oportunidad para que los maestros de México gocemos del pleno ejercicio de nuestra autonomía.
@@ -45,7 +45,7 @@ seed_examples:
   - context: |
       La Nueva Escuela Mexicana tiene como función construir una sociedad armónica, inclusiva, plural e intercultural; se trata de un modelo educativo innovador y realista que orientará la formación de estudiantes capaces de enfrentar los cambios sociales y las situaciones que se presentan a nivel individual, familiar, comunitario y social.
       María de los Ángeles Guerrero Olvera\nDocente del Jardín de Niños\n“Zelideh Saeb Salinas”\nCiudad Victoria, Tamaulipas
-      
+
     questions_and_answers:
       - question: ¿Cuál es la principal responsabilidad de La Nueva Escuela Mexicana?
         answer: La principal responsabilidad de La Nueva Escuela Mexicana es construir una sociedad armónica, inclusiva, plural e intercultural.
@@ -60,7 +60,7 @@ seed_examples:
       Perfiles Educativos, 45(180), suplemento 2023
       Instituto de Investigaciones sobre la Universidad y la Educación (2023)
       Con el fin de aportar nuevos elementos a la discusión actual sobre la reforma educativa en México, esta revista presenta análisis y reflexiones escritos por diferentes académicos especializados en educación, los cuales se enfocan específicamente en el tema del currículo. Los trabajos contienen elementos críticos sobre cómo la reforma educativa de 2022 repercutirá en el marco curricular que implementarán las escuelas y en los aprendizajes del alumnado en el futuro.
-      
+
     questions_and_answers:
       - question: ¿Cuál es el tema principal abordado por esta edición de la revista Perfiles Educativos?
         answer: El tema principal abordado en esta edición de la revista Perfiles Educativos es la reforma educativa del currículo para 2022, con foco en las voces, controversias y debates que rodean este proceso.

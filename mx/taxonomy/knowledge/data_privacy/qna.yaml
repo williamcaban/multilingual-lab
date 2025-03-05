@@ -6,7 +6,7 @@ seed_examples:
   - context: |
       Artículo 1. El presente Manual es de observancia general y obligatoria para las Secretarías Ejecutiva y Técnica, Contraloría, Oficina de Información Pública, las unidades administrativas, y los Integrantes del Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
       El propósito del Manual es establecer las reglas mediante las cuales se organiza y funciona el Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal, a fin de cumplir con sus responsabilidades encomendadas en la ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
-      
+
     questions_and_answers:
       - question: ¿Para qué áreas o entidades aplica el Manual según se especifica en el Artículo 1?
         answer: El Manual es de observancia general y obligatoria para las Secretarías Ejecutiva y Técnica, Contraloría, Oficina de Información Pública, las unidades administrativas, y los Integrantes del Comité de Transparencia del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
@@ -17,7 +17,7 @@ seed_examples:
 
   - context: |
       Artículo 8. Los miembros del Comité podrán ser suplidos en sus funciones por el servidor público que ocupe el nivel jerárquico inmediato inferior, previa comunicación al Presidente del Comité, los cuales tendrán derecho a voz y voto. El Contralor invariablemente deberá asistir a la Sesiones del Comité.
-      
+
     questions_and_answers:
       - question: ¿Podrán los miembros del Comité ser reemplazados en sus funciones y por quién?
         answer: Sí, los miembros del Comité podrán ser reemplazados en sus funciones por el servidor público que ocupe el nivel jerárquico inmediato inferior.
@@ -33,7 +33,7 @@ seed_examples:
       III. Presentación, discusión de los asuntos propuestos, y
       IV. Aprobación de los acuerdos.
       Las sesiones-darán inicio en la hora y fecha indicadas, teniendo una tolerancia de 20 minutos para que se integre el quórum. Si transcurrido dicho término no se reúne el quórum, se procederá a iniciar la sesión con los integrantes presentes.
-      
+
     questions_and_answers:
       - question: ¿Qué elementos deben considerarse en las sesiones según el artículo 11?
         answer: Según el artículo 11, las sesiones deben incluir la verificación del quórum, la presentación y aprobación del orden del día, la presentación y discusión de los asuntos propuestos, y la aprobación de los acuerdos.
@@ -50,7 +50,7 @@ seed_examples:
       IV. Proponer al Comité un posible plazo con el que se atendería la generación de la información;
       V. Apoyar en todo aquello que proponga el Comité para el cumplimiento de lo establecido en el artículo 61 de la Ley, y
       VI. Las demás que le encomiende el Comité;
-      
+
     questions_and_answers:
       - question: ¿Cuáles son las funciones específicas de los titulares de las unidades administrativas según el artículo 20?
         answer: Las funciones específicas incluyen proponer la clasificación de información o declaratoria de inexistencia de manera fundada y motivada, incorporar consideraciones del Comité en respuestas sobre la clasificación de información, realizar una búsqueda exhaustiva antes de proponer la inexistencia de la información, proponer un posible plazo al Comité para atender la generación de la información, apoyar en todo lo que propone el Comité para cumplir con las disposiciones del artículo 61 de la Ley, y realizar otras tareas que le encomiende el Comité.
@@ -70,7 +70,7 @@ seed_examples:
       VII. Vigilar que se dé cumplimiento al programa de trabajo y a los acuerdos y resoluciones aprobadas por el Comité, y
       VIII. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar, deban estar presentes en las sesiones del Comité.
       IX. Los integrantes del Comité promoverán, en el ámbito de sus respectivas competencias, la coordinación e implementación de las acciones derivadas de los acuerdos tomados.
-      
+
     questions_and_answers:
       - question: ¿Cuáles son las obligaciones del Comité en la asistencia a sus sesiones?
         answer: Son obligaciones de los integrantes del Comité asistir a las sesiones del Comité.
