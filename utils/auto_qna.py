@@ -162,7 +162,7 @@ def main():
     # Template string - updated to handle multiline content safely
     template_str = """---
 version: 3
-domain: {{domain}}
+domain: {{domain|yaml_safe}}
 created_by: rhelai_bu
 seed_examples:
   - context: {{ c1|yaml_safe }}
