@@ -83,6 +83,6 @@ seed_examples:
 document_outline: Generated document outline
 document:
   repo: https://github.com/williamcaban/multilingual-lab.git
-  commit: main
+  commit: ca9ab183c97bdd6186adfb54467c4fca061ba32b
   patterns:
     - "sv/pruebas_diagnosticas-informe_de_resultados_2024.pdf"

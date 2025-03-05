@@ -83,6 +83,6 @@ document_outline: |
   Generated document outline
 document:
   repo: https://github.com/williamcaban/multilingual-lab.git
-  commit: main
+  commit: ca9ab183c97bdd6186adfb54467c4fca061ba32b
   patterns:
     - "sv/Memoria-de-labores-MAG-2023.pdf"
