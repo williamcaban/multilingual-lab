@@ -1,0 +1,56 @@
+---
+version: 3
+domain: {{domain|yaml_safe}}
+created_by: rhelai_bu
+seed_examples:
+  - context: {{ c1|yaml_safe }}
+    questions_and_answers:
+      - question: {{ c1q1|yaml_safe }}
+        answer: {{ c1a1|yaml_safe }}
+      - question: {{ c1q2|yaml_safe }}
+        answer: {{ c1a2|yaml_safe }}
+      - question: {{ c1q3|yaml_safe }}
+        answer: {{ c1a3|yaml_safe }}
+
+  - context: {{ c2|yaml_safe }}
+    questions_and_answers:
+      - question: {{ c2q1|yaml_safe }}
+        answer: {{ c2a1|yaml_safe }}
+      - question: {{ c2q2|yaml_safe }}
+        answer: {{ c2a2|yaml_safe }}
+      - question: {{ c2q3|yaml_safe }}
+        answer: {{ c2a3|yaml_safe }}
+
+  - context: {{ c3|yaml_safe }}
+    questions_and_answers:
+      - question: {{ c3q1|yaml_safe }}
+        answer: {{ c3a1|yaml_safe }}
+      - question: {{ c3q2|yaml_safe }}
+        answer: {{ c3a2|yaml_safe }}
+      - question: {{ c3q3|yaml_safe }}
+        answer: {{ c3a3|yaml_safe }}
+
+  - context: {{ c4|yaml_safe }}
+    questions_and_answers:
+      - question: {{ c4q1|yaml_safe }}
+        answer: {{ c4a1|yaml_safe }}
+      - question: {{ c4q2|yaml_safe }}
+        answer: {{ c4a2|yaml_safe }}
+      - question: {{ c4q3|yaml_safe }}
+        answer: {{ c4a3|yaml_safe }}
+
+  - context: {{ c5|yaml_safe }}
+    questions_and_answers:
+      - question: {{ c5q1|yaml_safe }}
+        answer: {{ c5a1|yaml_safe }}
+      - question: {{ c5q2|yaml_safe }}
+        answer: {{ c5a2|yaml_safe }}
+      - question: {{ c5q3|yaml_safe }}
+        answer: {{ c5a3|yaml_safe }}
+
+document_outline: {{ doc_outline|yaml_safe }}
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: {{commit_id|yaml_safe}}
+  patterns:
+    - {{docs_path|yaml_safe}}

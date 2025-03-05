@@ -1,0 +1,63 @@
+---
+version: 3
+domain: government El Salvador
+created_by: rhelai_bu
+seed_examples:
+    - context: |
+        La Estrategia de Gestión Financiera ante el Riesgo de Desastres ratifica nuestro compromiso de fortalecer las finanzas públicas y la resiliencia fiscal del país ante el riesgo que implica la ocurrencia de calamidades producto de los fenómenos naturales. Fortalecerá los mecanismos, herramientas y políticas fiscales para resguardar la seguridad – física y socioeconómica – de los salvadoreños y salvadoreñas. Asimismo, desarrollará acciones para: generar un mayor conocimiento y cuantificación del riesgo fiscal ante desastres; gestionar dicho riesgo impulsando acciones de reducción y mitigación; fortalecer la infraestructura pública para reducir su eventual afectación ante la ocurrencia de desastres; disponer de diferentes instrumentos y mecanismos financieros que permitan movilizar recursos de manera oportuna minimizando su impacto fiscal; y aumentar la eficiencia, eficacia y transparencia del gasto público destinado a la gestión integral de desastres.
+      questions_and_answers:
+          - question: ¿Cuál es el objetivo principal de la Estrategia de Gestión Financiera ante el Riesgo de Desastres en El Salvador?
+            answer: El objetivo principal es fortalecer las finanzas públicas y la resiliencia fiscal del país ante el riesgo que implica la ocurrencia de calamidades producto de fenómenos naturales, resguardando la seguridad física y socioeconómica de los salvadoreños y salvadoreñas.
+          - question: ¿Qué acciones específicas contempla esta estrategia para gestionar el riesgo de desastres?
+            answer: "La estrategia contempla varias acciones específicas: generar mayor conocimiento y cuantificación del riesgo fiscal ante desastres; gestionar dicho riesgo impulsando acciones de reducción y mitigación; fortalecer la infraestructura pública; disponer de diferentes instrumentos financieros para movilizar recursos oportunamente; y aumentar la eficiencia, eficacia y transparencia del gasto público destinado a la gestión integral de desastres."
+          - question: ¿Cómo pretende la estrategia minimizar el impacto fiscal de los desastres naturales?
+            answer: La estrategia pretende minimizar el impacto fiscal mediante la disposición de diferentes instrumentos y mecanismos financieros que permitan movilizar recursos de manera oportuna, complementado con acciones preventivas como el fortalecimiento de la infraestructura pública y la implementación de medidas de reducción y mitigación de riesgos.
+
+    - context: |
+        Porque la ocurrencia de desastres representa un riesgo para el bienestar de la ciudadanía, el desarrollo inclusivo, la estabilidad fiscal y el crecimiento económico. El impacto de desastres se traduce en pérdidas en el bienestar de la población, desaceleración de la actividad económica y retroceso en el desarrollo inclusivo y reducción de la pobreza. Eventos como los terremotos de 1986 y 2001 han significado daños y pérdidas equivalentes al 12 y 24% del PIB1. Asimismo, eventos como el huracán Mitch y la Depresión Tropical 12E han significado un impacto equivalente al 4% del PIB. La ocurrencia de dichos eventos genera daños en medios de vida e infraestructura crítica —carreteras, industria, servicios de electricidad, agua y saneamiento, entre otros.
+      questions_and_answers:
+          - question: ¿Qué porcentaje del PIB representaron los daños y pérdidas causados por los terremotos de 2001 en El Salvador?
+            answer: Los terremotos de 2001 en El Salvador causaron daños y pérdidas equivalentes al 24% del PIB, lo que demuestra el severo impacto económico que pueden tener los desastres naturales en el país.
+          - question: ¿Cómo afectan los desastres naturales al desarrollo inclusivo en El Salvador?
+            answer: Los desastres naturales en El Salvador provocan retrocesos en el desarrollo inclusivo y en la reducción de la pobreza, causando pérdidas en el bienestar de la población y desaceleración de la actividad económica, lo que compromete los avances socioeconómicos del país.
+          - question: ¿Qué tipos de infraestructura crítica resultan dañados por desastres como huracanes y terremotos en El Salvador?
+            answer: Los desastres naturales en El Salvador generan daños en infraestructura crítica que incluye carreteras, industria, servicios de electricidad, agua y saneamiento, entre otros, afectando tanto los medios de vida de la población como los servicios esenciales para el funcionamiento del país.
+
+    - context: |
+        A fines del 2016, se aprobó la Ley de Responsabilidad Fiscal14 (LRF), con el objetivo garantizar la sostenibilidad fiscal y la estabilidad macroeconómica como herramientas para generar desarrollo social y económico. Dicha ley establece reglas fiscales que ponen límites al déficit y endeudamiento público, vinculan las metas macro-fiscales con el ejercicio del presupuesto público, garantiza la asignación presupuestaria a las áreas sociales, y establece mayor transparencia y rendición de cuentas en el uso de los recursos públicos.
+      questions_and_answers:
+          - question: ¿En qué año se aprobó la Ley de Responsabilidad Fiscal en El Salvador y cuál era su objetivo principal?
+            answer: La Ley de Responsabilidad Fiscal se aprobó a finales del 2016 con el objetivo principal de garantizar la sostenibilidad fiscal y la estabilidad macroeconómica como herramientas fundamentales para generar desarrollo social y económico en El Salvador.
+          - question: Qué elementos clave establece la Ley de Responsabilidad Fiscal para controlar las finanzas públicas?
+            answer: La Ley de Responsabilidad Fiscal establece reglas fiscales que ponen límites al déficit y endeudamiento público, vincula las metas macro-fiscales con el ejercicio del presupuesto público, garantiza la asignación presupuestaria a áreas sociales, y establece mayor transparencia y rendición de cuentas en el uso de los recursos públicos.
+          - question: ¿Cómo contribuye la Ley de Responsabilidad Fiscal a la protección de las áreas sociales en El Salvador?
+            answer: La Ley de Responsabilidad Fiscal contribuye a la protección de las áreas sociales al garantizar específicamente la asignación presupuestaria para estos sectores, asegurando que el control fiscal y la disciplina presupuestaria no afecten negativamente la inversión social necesaria para el desarrollo del país.
+
+    - context: |
+        La asignación y ejecución eficiente, eficaz y transparente de recursos para la GRD es tanto importante como contar con fuentes de financiamiento. La eficiencia en el gasto público se refiere a la distribución de recursos en aquello que genera mayor valor y por tanto lograr el mayor beneficio por cada dólar que se dispone para la GRD. La eficacia, entonces, implica el cumplimiento de los objetivos propuestos producto de la realización de aquellas acciones financiadas con recursos públicos, es decir que, los recursos destinados para la GRD logran alcanzar y generar el impacto deseado en la población objetivo, ya sea en términos de reducir su nivel de riesgo como de atender las necesidades humanas, sociales y económicas que emergenante la ocurrencia de un evento. Así, la transparencia en el destino y uso de recursos públicos permite identificar y visibilizar en qué y cómo se han utilizado los recursos destinados para la GRD, vinculando la gestión de las instituciones públicas con la ciudadanía, permitiendo la retroalimentación, evaluación y mejora continua.
+      questions_and_answers:
+          - question: ¿Qué significa la eficiencia en el gasto público en el contexto de la Gestión de Riesgo de Desastres (GRD)?
+            answer: La eficiencia en el gasto público para la Gestión de Riesgo de Desastres se refiere a la distribución de recursos en aquello que genera mayor valor, buscando lograr el mayor beneficio por cada dólar que se dispone para la GRD, optimizando así el impacto de la inversión pública en la reducción y manejo de riesgos.
+          - question: ¿Cómo se define la eficacia en la ejecución de recursos para la Gestión de Riesgo de Desastres?
+            answer: La eficacia en la ejecución de recursos para la GRD implica el cumplimiento de los objetivos propuestos mediante las acciones financiadas con recursos públicos, asegurando que estos recursos logren alcanzar y generar el impacto deseado en la población objetivo, ya sea reduciendo su nivel de riesgo o atendiendo las necesidades humanas, sociales y económicas que emergen ante la ocurrencia de un evento.
+          - question: ¿Por qué es importante la transparencia en la asignación de recursos para la Gestión de Riesgo de Desastres?
+            answer: La transparencia en la asignación de recursos para la GRD es importante porque permite identificar y visibilizar en qué y cómo se han utilizado los fondos destinados para este fin, estableciendo un vínculo entre la gestión de las instituciones públicas y la ciudadanía, lo que facilita la retroalimentación, evaluación y mejora continua de las políticas y programas de gestión de riesgos.
+
+    - context: |
+        El sistema presupuestario por áreas de gestión que rige actualmente limita la identificación ex-ante y la trazabilidad integral del gasto público realizado en GRD. Existe la capacidad de identificar gastos en GRD realizado por aquellas instituciones cuya función central tiene que ver con la prevención, reducción y atención del riesgo, por ejemplo, la Dirección General de Protección Civil que incluye el FOPROMID. Sin perjuicio de lo anterior, es difícil distinguir el gasto en GRD realizado por el resto de las instituciones pública en el marco de la estructura de presupuestos por áreas de gestión.
+      questions_and_answers:
+          - question: ¿Qué limitación presenta el actual sistema presupuestario por áreas de gestión en relación a la Gestión de Riesgo de Desastres (GRD)?
+            answer: El actual sistema presupuestario por áreas de gestión limita la identificación ex-ante y la trazabilidad integral del gasto público realizado en GRD, dificultando el seguimiento completo de los recursos destinados a la prevención, reducción y atención de riesgos de desastres en el país.
+          - question: ¿En qué casos es posible identificar claramente el gasto en Gestión de Riesgo de Desastres dentro del sistema presupuestario actual?
+            answer: Es posible identificar claramente el gasto en GRD únicamente en aquellas instituciones cuya función central está relacionada con la prevención, reducción y atención del riesgo, como por ejemplo la Dirección General de Protección Civil que incluye el FOPROMID (Fondo de Protección Civil, Prevención y Mitigación de Desastres).
+          - question: ¿Por qué resulta difícil determinar el gasto total en Gestión de Riesgo de Desastres en el presupuesto público?
+            answer: Resulta difícil determinar el gasto total en GRD porque, bajo la estructura de presupuestos por áreas de gestión, no se puede distinguir fácilmente el gasto en GRD realizado por instituciones públicas cuya función principal no es la gestión de riesgos, lo que impide tener una visión completa e integrada de la inversión pública en esta materia.
+
+document_outline: |
+  Estrategia de Gestión Financiera ante el Riesgo de Desastres. Mayo 2021. Gobierno de El Salvador
+
+document:
+    repo: https://github.com/williamcaban/multilingual-lab.git
+    commit: update_me
+    patterns:
+        - "sv/Estrategia-de-Gestion-Financiera-ante-el-Riesgo-de-Desastres_en.pdf"

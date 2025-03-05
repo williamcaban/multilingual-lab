@@ -1,0 +1,88 @@
+---
+version: 3
+domain: agriculture El Salvador
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      LÍNEA ESTRATÉGICA 1: TRANSFORMACIÓN AGROPECUARIA SOSTENIBLE PARA LA SEGURIDAD Y SOBERANÍA ALIMENTARIA
+      Objetivo: transferir tecnología postcosecha y ampliar la capacidad de almacenamiento de pequeños y medianos productores.
+      Nombre: Impartir capacitaciones a agricultores en temas de inocuidad y almacenamiento apropiado de granos básicos.
+      Resultado: 138 hombres capacitados y 114 mujeres capacitadas a nivel nacional.
+
+    questions_and_answers:
+      - question: ¿Cuántos Agricultores se capacitaron en total?
+        answer: Se capacitó un total de 252 personas, compuesta por 138 hombres y 114 mujeres a nivel nacional.
+      - question: ¿Qué temas fueron impartidos durante las capacitaciones?
+        answer: Durante las capacitaciones se trataron temas de inocuidad y almacenamiento apropiado de granos básicos.
+      - question: ¿A cuál grupo productivo estaban dirigidas esas capacitaciones?
+        answer: Las capacitaciones fueron para pequeños y medianos productores agropecuarios.
+
+  - context: |
+      Objetivo: fomentar las capacidades técnicas para el procesamiento, agregación de valor y comercialización de los granos básicos.
+      Nombre: Efectuar visitas a campo de producción de semillas y material vegetativo.
+      Resultado: 1,008 visitas realizadas en el departamento de Sonsonate, La Libertad, La Paz, San Vicente y Usulután; y en los municipios de Acajutla, Ciudad Arce, San Juan Opico, San Pedro Masahuat, Tecoluca y Jiquilisco.
+      Nombre: Muestrear y analizar semilla.
+      Resultado: 5,646 análisis efectuados en el departamento de La Libertad, municipio de Ciudad Arce.
+      Nombre: Etiquetar y certificar semilla que cumpla con los estándares de calidad.
+      Resultado: 56,918.43 quintales certificados a nivel nacional.
+
+    questions_and_answers:
+      - question: ¿Cuántas visitas se realizaron durante la ejecución de este proyecto?
+        answer: Se realizaron un total de 1,008 visitas a campo de producción de semillas y material vegetativo en varios departamentos.
+      - question: En cuáles departamentos se llevaron a cabo las visitas realizadas según el resultado mencionado?
+        answer: Las visitas se realizaron en los departamentos de Sonsonate, La Libertad, La Paz y San Vicente y Usulután.
+      - question: ¿Cuántos análisis se efectuaron durante la ejecución de este proyecto y en qué departamento?
+        answer: Se efectuaron 5,646 análisis de semilla en el municipio de Ciudad Arce, departamento de La Libertad.
+
+  - context: |
+      Objetivo: fortalecer el monitoreo del cumplimiento de las leyes sanitarias, especialmente las referidas a no recombinación y pasteurización de leche.
+      Nombre: Realizar inspecciones a plantas de procesamiento de lácteos y rastros autorizados.
+      Resultado: 1,890 controles a plantas realizados en los departamentos de Ahuachapán, Sonsonate, La Libertad, Chalatenango y San Salvador; y en los municipios de San Francisco Menéndez, Sonsonate, Acajutla, San Julián, Nahulingo, San Juan Opico, La Libertad, Tejutla y San Salvador.
+      Nombre: Realizar muesteo de productos y subproductos lácteos para velar por la inocuidad de alimentos.
+      Resultado: 282 muestreos realizados en los departamentos de Sonsonate, La Libertad, San Salvador y La Unión; y en los municipios de Sonsonate, Acajutla, San Julián, Colón, San Juan Opico, San Salvador, Nejapa y Pasaquina.
+
+    questions_and_answers:
+      - question: ¿Cuántos controles se realizaron en las plantas de procesamiento lácteo durante el monitoreo?
+        answer: Se llevaron a cabo 1,890 controles a plantas de procesamiento lácteo.
+      - question: En qué departamentos se realizaron los controles a las plantas de procesamiento lácteo y cuáles municipios en San Salvador?
+        answer: Los controles fueron realizados en los departamentos de Ahuachapán, Sonsonate, La Libertad, Chalatenango y San Salvador. En el departamento de San Salvador, se realizaron muestreos en los municipios de San Francisco Menéndez, Acajutla, San Julián, Nahulingo, San Juan Opico y Tejutla.
+      - question: ¿Cuántas muestras se tomaron durante la inspección del muestreo de productos lácteos?
+        answer: Se realizaron 282 muestras de productos y subproductos lácteos para velar por su inocuidad.
+
+  - context: |
+      Objetivo: fortalecer el programa de especies menores.
+      Nombre: Comercializar pie de cría avícola a precio de fomento.
+      Resultado: 45,606 pollos comercializados en los departamentos de Morazán, La Unión, San Miguel, Sonsonate, San Salvador, La paz, Ahuachapán, La Unión, Santa Ana y La Libertad en los municipios de Santa Rosa de Lima, Comacarán, El Divisadero, Osicala, Meanguera, Sonsonate, San Rafael Obrajuelo, San Juan Nonualco, Mejicanos, Ahuachapán, Santa Rosa de Lima, Santa Ana, Soyapango, San Salvador y Santa Tecla.
+      Nombre: Comercializar material genético avícola (huevo).
+      Resultado: 265,119 huevos comercializados en los departamentos de Morazán, San Miguel, Usulután, La Unión, San Salvador, La Paz, Cuscatlán, La Libertad, Sonsonate, San Miguel y San Vicente en los municipios de San Miguel, Jocoro, San Francisco Gotera, Corinto, El Divisadero, Chinameca, Comacarán, San Salvador, Nueva Guadalupe, Usulután, La Unión, Anamorós, Berlín, San Salvador, Soyapango, Ilopango, San Rafael Obrajuelo, San Luis Talpa, San Pedro Masahuat, Cojutepeque, San Juan Opico, Santa Tecla, Sonsonate, San Miguel y Apastepeque.
+
+    questions_and_answers:
+      - question: ¿Qué cantidad de pollos se comercializaron a precio de fomento?
+        answer: 45,606 pollos se comercializaron en los departamentos y municipios mencionados.
+      - question: En cuántos departamentos se comercializó material genético avícola (huevo)?
+        answer: |
+          Se comercializó material genético avícola (huevo) en 12 departamentos: Morazán, San Miguel, Usulután, La Unión, San Salvador, La Paz, Cuscatlán, La Libertad, Sonsonate, San Miguel y San Vicente.
+      - question: ¿Cuál es el nombre del programa que se está fortaleciendo?
+        answer: El nombre del programa que se está fortaleciendo es 'Comercializar pie de cría avícola a precio de fomento'.
+
+  - context: |
+      DEPURACIÓN Y ACTUALIZACIÓN DEL REGISTRO CAFETALERO DE PRODUCTORES Y FINCAS
+      En 2022 se detectó e identificó inconsistencias en la base de registro de productores. La falta de actualización y depuración del registro en los últimos 10 años generó información estadística poco precisa sobre el sector, lo que puso en evidencia la necesidad de realizar acciones para garantizar la veracidad de los datos.
+      Objetivo: lograr un registro actualizado que permita contar con información estadística precisa y confiable sobre los productores, superficie cultivada y la estructura productiva del sector, facilitando la toma de decisiones y la asignación de recursos en función de las necesidades y potencialidades del mismo.
+      En el período, se han depurado de la base de productores un total de 6,418 registros que estaban desactualizados e inactivos; asimismo, se logró poner al día la información de 5,961 registros de fincas de café.
+
+    questions_and_answers:
+      - question: ¿Cuántos registros se depuraron en total de la base de productores durante el período?
+        answer: Se depuraron un total de 6,418 registros de productores que estaban desactualizados e inactivos.
+      - question: Qué propósitos se buscan alcanzar con la actualización del registro cafetero según el objetivo dado?
+        answer: Se busca lograr un registro actualizado para contar con información estadística precisa y confiable sobre los productores, superficie cultivada y la estructura productiva del sector, facilitando la toma de decisiones y la asignación de recursos en función de las necesidades y potencialidades del mismo.
+      - question: ¿Cuántos registros se actualizaron de fincas de café durante el período?
+        answer: Se logró poner al día la información de 5,961 registros de fincas de café.
+
+document_outline: |
+  Generated document outline
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "sv/Memoria-de-labores-MAG-2023.pdf"

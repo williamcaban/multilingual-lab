@@ -1,0 +1,88 @@
+---
+version: 3
+domain: education El Salvador
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      Las pruebas «Conociendo Mis Logros» son una iniciativa del Ministerio de Educación, que busca identificar el logro de los indicadores establecidos en el currículo nacional actual, con el fin de apoyar los procesos educativos en el aula.
+      Esta es una evaluación que da información del estado de los aprendizajes a nivel de centro educativo y de grado. Se programa en dos momentos del año académico. La primera aplicación, llamada Evaluación Diagnóstica «Conociendo Mis Logros», se realiza al inicio del año escolar y permite identificar los aprendizajes con los que los estudiantes inician su nuevo grado académico. La segunda, denominada únicamente «Conociendo Mis Logros» se aplica al cierre del año escolar y proporciona información acerca del nivel en el que los estudiantes han desarrollado las habilidades requeridas en las asignaturas evaluadas.
+
+    questions_and_answers:
+      - question: ¿Cuáles son los objetivos principales de las pruebas 'Conociendo Mis Logros'?
+        answer: Los objetivos principales de las pruebas 'Conociendo Mis Logros' son identificar el logro de los indicadores establecidos en el currículo nacional actual y apoyar los procesos educativos en el aula.
+      - question: ¿Cuándo se realiza la primera aplicación de la evaluación 'Conociendo Mis Logros'?
+        answer: La primera aplicación, llamada Evaluación Diagnóstica 'Conociendo Mis Logros', se realiza al inicio del año escolar.
+      - question: ¿Qué información proporciona la segunda aplicación de las pruebas 'Conociendo Mis Logros'?
+        answer: La segunda aplicación, denominada únicamente 'Conociendo Mis Logros', se aplica al cierre del año escolar y proporciona información sobre el nivel en el que los estudiantes han desarrollado las habilidades requeridas en las asignaturas evaluadas.
+
+  - context: |
+      Dimensiones cognitivas
+
+      |--------------|---------|
+      | Conocimiento | 66.27 % |
+      | Aplicación   | 64.89 % |
+
+      La dimensión cognitiva con mayor porcentaje de acierto es Conocimiento, aunque la diferencia con Aplicación es mínima, en el grado evaluado los estudiantes evidencian el desarrollo habilidades como: comprender, calcular, comparar y recordar conceptos matemáticos entre otras que son fundamentales para trascender al siguiente nivel cognitivo.
+      A partir de los resultados anteriores en las dos dimensiones evaluadas, se presentan los principales hallazgos.
+
+    questions_and_answers:
+      - question: ¿Cuál dimensión cognitiva tiene el mayor porcentaje de acierto en la evaluación?
+        answer: La dimensión con el mayor porcentaje de acierto es Conocimiento, con un 66.27 %.
+      - question: ¿Qué habilidades muestran los estudiantes según menciona el texto en relación con la dimensión cognitiva 'Conocimiento'?
+        answer: Los estudiantes muestran desarrollo en habilidades como comprender, calcular, comparar y recordar conceptos matemáticos.
+      - question: ¿Cuál es la diferencia entre los porcentajes de aciertos en Conocimiento y Aplicación?
+        answer: La diferencia entre los porcentajes de aciertos en Conocimiento y Aplicación es mínima, con un 66.27 % para Conocimiento y 64.89 % para Aplicación.
+
+  - context: |
+      Objetivo: fortalecer el monitoreo del cumplimiento de las leyes sanitarias, especialmente las referidas a no recombinación y pasteurización de leche.
+      Nombre: Realizar inspecciones a plantas de procesamiento de lácteos y rastros autorizados.
+      Resultado: 1,890 controles a plantas realizados en los departamentos de Ahuachapán, Sonsonate, La Libertad, Chalatenango y San Salvador; y en los municipios de San Francisco Menéndez, Sonsonate, Acajutla, San Julián, Nahulingo, San Juan Opico, La Libertad, Tejutla y San Salvador.
+      Nombre: Realizar muesteo de productos y subproductos lácteos para velar por la inocuidad de alimentos.
+      Resultado: 282 muestreos realizados en los departamentos de Sonsonate, La Libertad, San Salvador y La Unión; y en los municipios de Sonsonate, Acajutla, San Julián, Colón, San Juan Opico, San Salvador, Nejapa y Pasaquina.
+
+    questions_and_answers:
+      - question: ¿Qué objetivo se persiguió al realizar las inspecciones a plantas de procesamiento de lácteos y rastros autorizados?
+        answer: El objetivo fue fortalecer el monitoreo del cumplimiento de las leyes sanitarias, especialmente en lo que se refiere a no recombinación y pasteurización de leche.
+      - question: ¿En cuántos departamentos se llevaron a cabo los controles a las plantas de procesamiento lácteo mencionados?
+        answer: |
+          Se llevaron a cabo los controles en cinco departamentos: Ahuachapán, Sonsonate, La Libertad, Chalatenango y San Salvador.
+      - question: ¿Cuántos muestreos se realizaron para velar por la inocuidad de productos lácteos y subproductos?
+        answer: Se llevaron a cabo 282 muestreos de productos y subproductos lácteos en los departamentos mencionados.
+
+  - context: |
+      Fortalezas
+      - Asociar la lectura y escritura de números naturales en diferentes situaciones planteadas.
+      - Resolver diferentes situaciones, al efectuar el algoritmo de la suma con números naturales de hasta tres cifras sin llevar.
+      Desafíos
+      - Efectuar el algoritmo de la resta de números naturales (prestando), ya que determinan el resultado sin considerar el préstamo del valor posicional. También, en algunas situaciones interpretan de forma incorrecta la operación a desarrollar y realizan la multiplicación como suma.
+      - Reconocer figuras geométricas planas, como triángulos y cuadriláteros,  puesto que, confunden segmentos de línea curva (no rectilíneos) como lados de estas.
+
+    questions_and_answers:
+      - question: ¿Cuáles son algunas de las fortalezas identificadas al trabajar con números naturales?
+        answer: Las fortalezas incluyen asociar la lectura y escritura de números naturales en diferentes situaciones, así como resolver problemas mediante el algoritmo de suma con números naturales hasta tres cifras sin llevar.
+      - question: ¿Qué desafíos se mencionan en cuanto a la resta de números naturales?
+        answer: Los desafíos están relacionados con efectuar correctamente el algoritmo de la resta, especialmente cuando hay que prestar (restar de un valor posicional), ya que esto puede determinar un resultado incorrecto. También se menciona el error de interpretar la operación a realizar y confundir la suma con la multiplicación.
+      - question: ¿Qué dificultades mencionan al momento de trabajar con figuras geométricas planas?
+        answer: Se mencionan problemas para reconocer figuras geométricas planas, específicamente triángulos y cuadriláteros, ya que cometen errores en la identificación del lado, confundiendo segmentos de línea curva (no rectilíneos) con lados de estas figuras.
+
+  - context: |
+      Dimensiones teóricas
+      El medio geográfico y sociocultural de la localidad
+      Se explora la capacidad del estudiantado para identificar lugares específicos de la comunidad a partir de puntos de referencia, así como los elementos sociales del paisaje geográfico de la localidad. Además, se evalúa los beneficios económicos que proporcionan las vías y los medios de transporte y la importancia de respetar las normas peatonales al transitar por la vía pública.
+      Los ítems también presentan contextos donde se explora la función que cumplen los principales medios de comunicación social y la importancia del trabajo para la satisfacción de las necesidades básicas.
+      Porcentaje de acierto 66.49 %
+
+    questions_and_answers:
+      - question: ¿Qué aspectos se exploran mediante el estudiantado en relación al medio geográfico y sociocultural de la localidad?
+        answer: Se evalúa la capacidad del estudiantado para identificar lugares específicos de la comunidad a partir de puntos de referencia, así como los elementos sociales del paisaje geográfico de la localidad.
+      - question: ¿Qué beneficios evalúan los ítems relacionados con las vías y medios de transporte?
+        answer: Los ítems evalúan los beneficios económicos que proporcionan las vías y los medios de transporte.
+      - question: ¿Cuál es el porcentaje de acierto en las dimensiones teóricas en el medio geográfico y sociocultural de la localidad?
+        answer: El porcentaje de acierto mencionado es 66.49 %.
+
+document_outline: Generated document outline
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "sv/pruebas_diagnosticas-informe_de_resultados_2024.pdf"
