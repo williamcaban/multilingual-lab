@@ -83,6 +83,6 @@ document_outline: |
   Informe sobre la gestión del Ministerio de Agricultura y Ganadería durante el periodo junio 2022-mayo 2023, enfocada en la transformación agropecuaria sostenible, seguridad alimentaria, desarrollo de cadenas de valor y distribución de insumos. Se destacan también iniciativas de recuperación ambiental con énfasis en resiliencia climática, avances en educación e investigación, mejor acceso a financiamiento y modernización institucional para servicios más eficientes.
 document:
   repo: https://github.com/williamcaban/multilingual-lab.git
-  commit: ca9ab183c97bdd6186adfb54467c4fca061ba32b
+  commit: main
   patterns:
     - "sv/Memoria-de-labores-MAG-2023.pdf"

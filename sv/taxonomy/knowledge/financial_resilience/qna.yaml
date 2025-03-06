@@ -58,6 +58,6 @@ document_outline: |
 
 document:
     repo: https://github.com/williamcaban/multilingual-lab.git
-    commit: ca9ab183c97bdd6186adfb54467c4fca061ba32b
+    commit: main
     patterns:
         - "sv/Estrategia-de-Gestion-Financiera-ante-el-Riesgo-de-Desastres.pdf"
