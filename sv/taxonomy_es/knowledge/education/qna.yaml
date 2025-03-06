@@ -84,6 +84,6 @@ document_outline: |
   Las pruebas "Conociendo Mis Logros" son una iniciativa del Ministerio de Educación, que busca identificar el logro de los indicadores establecidos en el currículo nacional actual, con el fin de apoyar los procesos educativos en el aula. Este documento presenta  información  de  los  resultados  obtenidos  a  partir  de  la  primera aplicación 2024, con el propósito de que las instituciones reflexionen sobre la efectividad de sus prácticas a partir de las fortalezas y desafíos en los aprendizajes y, a la vez, que tengan insumos para el Plan de Éxito Educativo que se implementa en el año escolar.
 document:
   repo: https://github.com/williamcaban/multilingual-lab.git
-  commit: ca9ab183c97bdd6186adfb54467c4fca061ba32b
+  commit: main
   patterns:
     - "sv/pruebas_diagnosticas-informe_de_resultados_2024.pdf"
