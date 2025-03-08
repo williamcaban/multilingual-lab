@@ -1,0 +1,65 @@
+---
+version: 3
+domain: sea rescuers
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      Faced with the changing profile of lifeguards, combined with an increase in regulatory requirements, the SNSM has launched, since 2018, the deployment of an ambitious training plan. Thus, by 2025 100% of on-board lifeguards and divers will be qualified; 90% of on-board lifeguards (compared to 70% today) will have first aid qualifications; 70% to 80% of skippers will be trained in operational navigation and search and rescue operations; at least 50% of lifeguards will have completed training in individual survival techniques and firefighting. The ambition to guarantee the safety and effectiveness of the mission and cover all training needs.
+
+    questions_and_answers:
+      - question: What are the objectives of the SNSM training plan for 2025?
+        answer: |
+          The training plan's objectives for 2025 include 100% of lifeguards swimming and diving qualified, 90% of on-board lifeguards trained in first aid, and 70% to 80% of skippers trained in operational navigation.
+      - question: Since when did the SNSM launch its ambitious training plan?
+        answer: The SNSM launched its ambitious training plan in 2018.
+      - question: What additional skills should lifeguards acquire by 2025?
+        answer: Lifeguards must acquire skills in survival techniques and firefighting by 2025.
+  - context: |
+      The SNSM's missions are structured around three main axes rescue, training and prevention. In 2023, on-board lifeguards and lifeguards carried out 9,256 interventions and took care of nearly 30,000 people, including the rescue, care and search for children lost on the beaches. The SNSM is the only structure that has the skills and qualifications necessary to intervene jointly from the beach to the open sea.
+
+    questions_and_answers:
+      - question: What are the three main missions of the SNSM?
+        answer: The three main missions of the SNSM are to save lives, train rescuers and prevent risks at sea.
+      - question: How many interventions were carried out by the SNSM in 2023?
+        answer: In 2023, the SNSM carried out 9,256 interventions.
+      - question: How many people were taken care of in 2023 by the SNSM?
+        answer: In 2023, the SNSM took care of nearly 30,000 people.
+
+  - context: |
+      The SNSM fleet includes 756 boats, ranging from offshore rescue vessels to jet skis. With an average age of 19 years, it is currently being renewed to improve the safety and efficiency of interventions. This program includes modern vessels designed with advanced technological equipment, such as integrated communication systems and marine drones.
+    questions_and_answers:
+      - question: How many boats are in the SNSM fleet?
+        answer: The SNSM fleet consists of 756 boats.
+      - question: What is the average age of SNSM boats?
+        answer: The average age of SNSM boats is 19 years.
+      - question: What technological equipment is planned for the new ships?
+        answer: The new ships are planned with advanced technological equipment such as integrated communication systems and marine drones.
+
+  - context: |
+      The SNSM is a recognized association of public utility, financed at more than 70% by private resources, in particular the generosity of the public and corporate sponsors. Donations make it possible to finance the fleet, the infrastructures, the training of lifeguards and the purchase of equipment.
+    questions_and_answers:
+      - question: What share of SNSM funding comes from private resources?
+        answer: More than 70% of SNSM funding comes from private resources.
+      - question: What elements are funded through donations?
+        answer: Donations fund the fleet, infrastructure, lifeguard training, and equipment purchases.
+      - question: What is the public recognition of SNSM?
+        answer: SNSM is recognized as being of public utility.
+
+  - context: |
+      In parallel with interventions at sea, the SNSM raises awareness among the general public about preventing risks at sea. In 2023, 210,000 identification bracelets for children were distributed on the beaches, and actions such as awareness workshops and courtesy visits were organized to provide information on good practices.
+    questions_and_answers:
+      - question: How many identification bracelets were distributed in 2023 by the SNSM?
+        answer: In 2023, 210,000 identification bracelets for children were distributed by the SNSM.
+      - question: What awareness-raising actions does the SNSM organize?
+        answer: The SNSM organizes workshops, courtesy visits and distributes identification bracelets.
+      - question: What is the objective of the SNSM's prevention actions?
+        answer: The objective of the SNSM's prevention actions is to raise public awareness of risks at sea and to promote good practices.
+
+document_outline: |
+    The National Society for Sea Rescue (SNSM) is responsible for rescuing anyone in danger at sea and on the coasts, in mainland France and overseas. It is the only structure that has the skills and qualifications necessary to intervene jointly from the beach to the open sea.The SNSM's on-board rescuers are the first link in the rescue chain for people in a real or potential shipwreck situation. Their responsiveness, their know-how, their in-depth knowledge of navigation areas, their equipment and their skills in managing rescue operations are essential for them to be able to carry out their missions successfully.
+
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "fr/snsm-dossier-presse-2025_en.pdf"
