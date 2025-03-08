@@ -1,0 +1,88 @@
+---
+version: 3
+domain: agriculture El Salvador
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      STRATEGIC LINE 1: SUSTAINABLE AGRICULTURAL TRANSFORMATION FOR FOOD SECURITY AND SOVEREIGNTY
+      Objective: transfer post-harvest technology and expand storage capacity of small and medium producers.
+      Name: Provide training to farmers on food safety and appropriate storage of basic grains.
+      Result: 138 men trained and 114 women trained nationwide.
+
+    questions_and_answers:
+      - question: How many farmers were trained in total?
+        answer: A total of 252 people were trained, consisting of 138 men and 114 women nationwide.
+      - question: What topics were covered during the training?
+        answer: During the training, topics related to food safety and appropriate storage of basic grains were covered.
+      - question: Which productive group were these trainings aimed at?
+        answer: The trainings were for small and medium agricultural producers.
+
+  - context: |
+      Objective: develop technical capabilities for processing, value addition, and marketing of basic grains.
+      Name: Conduct field visits to seed and vegetative material production.
+      Result: 1,008 visits conducted in the departments of Sonsonate, La Libertad, La Paz, San Vicente, and Usulután; and in the municipalities of Acajutla, Ciudad Arce, San Juan Opico, San Pedro Masahuat, Tecoluca, and Jiquilisco.
+      Name: Sample and analyze seed.
+      Result: 5,646 analyses conducted in the department of La Libertad, municipality of Ciudad Arce.
+      Name: Label and certify seed that meets quality standards.
+      Result: 56,918.43 quintals certified nationwide.
+
+    questions_and_answers:
+      - question: How many visits were conducted during the execution of this project?
+        answer: A total of 1,008 visits to seed and vegetative material production fields were conducted in various departments.
+      - question: In which departments were the visits conducted according to the mentioned result?
+        answer: The visits were conducted in the departments of Sonsonate, La Libertad, La Paz, San Vicente, and Usulután.
+      - question: How many analyses were conducted during the execution of this project and in which department?
+        answer: 5,646 seed analyses were conducted in the municipality of Ciudad Arce, department of La Libertad.
+
+  - context: |
+      Objective: strengthen the monitoring of compliance with sanitary laws, especially those referring to non-recombination and pasteurization of milk.
+      Name: Conduct inspections of dairy processing plants and authorized slaughterhouses.
+      Result: 1,890 plant controls conducted in the departments of Ahuachapán, Sonsonate, La Libertad, Chalatenango, and San Salvador; and in the municipalities of San Francisco Menéndez, Sonsonate, Acajutla, San Julián, Nahulingo, San Juan Opico, La Libertad, Tejutla, and San Salvador.
+      Name: Sample dairy products and by-products to ensure food safety.
+      Result: 282 samplings conducted in the departments of Sonsonate, La Libertad, San Salvador, and La Unión; and in the municipalities of Sonsonate, Acajutla, San Julián, Colón, San Juan Opico, San Salvador, Nejapa, and Pasaquina.
+
+    questions_and_answers:
+      - question: How many controls were conducted in dairy processing plants during the monitoring?
+        answer: 1,890 controls were conducted at dairy processing plants.
+      - question: In which departments were the controls of dairy processing plants conducted and which municipalities in San Salvador?
+        answer: The controls were conducted in the departments of Ahuachapán, Sonsonate, La Libertad, Chalatenango, and San Salvador. In the department of San Salvador, samplings were conducted in the municipalities of San Francisco Menéndez, Acajutla, San Julián, Nahulingo, San Juan Opico, and Tejutla.
+      - question: How many samples were taken during the inspection of dairy product sampling?
+        answer: 282 samples of dairy products and by-products were taken to ensure their safety.
+
+  - context: |
+      Objective: strengthen the minor species program.
+      Name: Market poultry breeding stock at promotional prices.
+      Result: 45,606 chickens marketed in the departments of Morazán, La Unión, San Miguel, Sonsonate, San Salvador, La Paz, Ahuachapán, La Unión, Santa Ana, and La Libertad in the municipalities of Santa Rosa de Lima, Comacarán, El Divisadero, Osicala, Meanguera, Sonsonate, San Rafael Obrajuelo, San Juan Nonualco, Mejicanos, Ahuachapán, Santa Rosa de Lima, Santa Ana, Soyapango, San Salvador, and Santa Tecla.
+      Name: Market poultry genetic material (eggs).
+      Result: 265,119 eggs marketed in the departments of Morazán, San Miguel, Usulután, La Unión, San Salvador, La Paz, Cuscatlán, La Libertad, Sonsonate, San Miguel, and San Vicente in the municipalities of San Miguel, Jocoro, San Francisco Gotera, Corinto, El Divisadero, Chinameca, Comacarán, San Salvador, Nueva Guadalupe, Usulután, La Unión, Anamorós, Berlín, San Salvador, Soyapango, Ilopango, San Rafael Obrajuelo, San Luis Talpa, San Pedro Masahuat, Cojutepeque, San Juan Opico, Santa Tecla, Sonsonate, San Miguel, and Apastepeque.
+
+    questions_and_answers:
+      - question: How many chickens were marketed at promotional prices?
+        answer: 45,606 chickens were marketed in the mentioned departments and municipalities.
+      - question: In how many departments was poultry genetic material (eggs) marketed?
+        answer: |
+          Poultry genetic material (eggs) was marketed in 12 departments: Morazán, San Miguel, Usulután, La Unión, San Salvador, La Paz, Cuscatlán, La Libertad, Sonsonate, San Miguel, and San Vicente.
+      - question: What is the name of the program being strengthened?
+        answer: The name of the program being strengthened is 'Market poultry breeding stock at promotional prices'.
+
+  - context: |
+      PURIFICATION AND UPDATING OF THE COFFEE REGISTRY OF PRODUCERS AND FARMS
+      In 2022, inconsistencies were detected and identified in the producer registration database. The lack of updating and purification of the registry in the last 10 years generated imprecise statistical information about the sector, which highlighted the need to take actions to guarantee the accuracy of the data.
+      Objective: achieve an updated registry that allows for accurate and reliable statistical information about producers, cultivated area, and the productive structure of the sector, facilitating decision-making and the allocation of resources according to the needs and potential of the sector.
+      In the period, a total of 6,418 outdated and inactive records have been purified from the producer database; likewise, information on 5,961 coffee farm records was updated.
+
+    questions_and_answers:
+      - question: How many records were purified in total from the producer database during the period?
+        answer: A total of 6,418 producer records that were outdated and inactive were purified.
+      - question: What purposes are sought to be achieved with the update of the coffee registry according to the given objective?
+        answer: The aim is to achieve an updated registry to have accurate and reliable statistical information about producers, cultivated area, and the productive structure of the sector, facilitating decision-making and the allocation of resources according to the needs and potential of the sector.
+      - question: How many coffee farm records were updated during the period?
+        answer: Information on 5,961 coffee farm records was updated.
+
+document_outline: |
+  Report on the management of the Ministry of Agriculture and Livestock during the period June 2022-May 2023, focused on sustainable agricultural transformation, food security, development of value chains, and distribution of inputs. Environmental recovery initiatives with emphasis on climate resilience, advances in education and research, better access to financing, and institutional modernization for more efficient services are also highlighted.
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "sv/Memoria-de-labores-MAG-2023_en.pdf"

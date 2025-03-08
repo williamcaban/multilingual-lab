@@ -1,0 +1,63 @@
+---
+version: 3
+domain: government El Salvador
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      The Financial Management Strategy for Disaster Risk reaffirms our commitment to strengthen public finances and the country's fiscal resilience against the risk of calamities resulting from natural phenomena. It will strengthen the mechanisms, tools, and fiscal policies to safeguard the security – both physical and socioeconomic – of all Salvadorans. Likewise, it will develop actions to: generate greater knowledge and quantification of fiscal risk in the face of disasters; manage said risk by promoting reduction and mitigation actions; strengthen public infrastructure to reduce its potential impact in the event of disasters; provide different financial instruments and mechanisms that allow resources to be mobilized in a timely manner, minimizing their fiscal impact; and increase the efficiency, effectiveness, and transparency of public spending allocated to comprehensive disaster management.
+    questions_and_answers:
+      - question: What is the main objective of the Financial Management Strategy for Disaster Risk in El Salvador?
+        answer: The main objective is to strengthen public finances and the country's fiscal resilience against the risk of calamities resulting from natural phenomena, safeguarding the physical and socioeconomic security of all Salvadorans.
+      - question: What specific actions does this strategy contemplate to manage disaster risk?
+        answer: "The strategy contemplates several specific actions: generating greater knowledge and quantification of fiscal risk in the face of disasters; managing said risk by promoting reduction and mitigation actions; strengthening public infrastructure; providing different financial instruments to mobilize resources in a timely manner; and increasing the efficiency, effectiveness, and transparency of public spending allocated to comprehensive disaster management."
+      - question: How does the strategy aim to minimize the fiscal impact of natural disasters?
+        answer: The strategy aims to minimize fiscal impact by providing different financial instruments and mechanisms that allow resources to be mobilized in a timely manner, complemented by preventive actions such as strengthening public infrastructure and implementing risk reduction and mitigation measures.
+
+  - context: |
+      Because the occurrence of disasters represents a risk to citizen welfare, inclusive development, fiscal stability, and economic growth. The impact of disasters translates into losses in population welfare, slowdown of economic activity, and setbacks in inclusive development and poverty reduction. Events such as the earthquakes of 1986 and 2001 have meant damages and losses equivalent to 12% and 24% of GDP1, respectively. Likewise, events such as Hurricane Mitch and Tropical Depression 12E have had an impact equivalent to 4% of GDP. The occurrence of such events generates damage to livelihoods and critical infrastructure—roads, industry, electricity services, water and sanitation, among others.
+    questions_and_answers:
+      - question: What percentage of GDP did the damages and losses caused by the 2001 earthquakes represent in El Salvador?
+        answer: The 2001 earthquakes in El Salvador caused damages and losses equivalent to 24% of GDP, demonstrating the severe economic impact that natural disasters can have on the country.
+      - question: How do natural disasters affect inclusive development in El Salvador?
+        answer: Natural disasters in El Salvador cause setbacks in inclusive development and poverty reduction, causing losses in population welfare and slowdown of economic activity, which compromises the country's socioeconomic progress.
+      - question: What types of critical infrastructure are damaged by disasters such as hurricanes and earthquakes in El Salvador?
+        answer: Natural disasters in El Salvador generate damage to critical infrastructure including roads, industry, electricity services, water and sanitation, among others, affecting both the livelihoods of the population and essential services for the functioning of the country.
+
+  - context: |
+      At the end of 2016, the Fiscal Responsibility Law14 (FRL) was approved, with the objective of guaranteeing fiscal sustainability and macroeconomic stability as tools to generate social and economic development. This law establishes fiscal rules that limit public deficit and debt, link macro-fiscal goals with the execution of the public budget, guarantee budget allocation to social areas, and establish greater transparency and accountability in the use of public resources.
+    questions_and_answers:
+      - question: In what year was the Fiscal Responsibility Law approved in El Salvador and what was its main objective?
+        answer: The Fiscal Responsibility Law was approved at the end of 2016 with the main objective of guaranteeing fiscal sustainability and macroeconomic stability as fundamental tools to generate social and economic development in El Salvador.
+      - question: What key elements does the Fiscal Responsibility Law establish to control public finances?
+        answer: The Fiscal Responsibility Law establishes fiscal rules that limit public deficit and debt, links macro-fiscal goals with the execution of the public budget, guarantees budget allocation to social areas, and establishes greater transparency and accountability in the use of public resources.
+      - question: How does the Fiscal Responsibility Law contribute to the protection of social areas in El Salvador?
+        answer: The Fiscal Responsibility Law contributes to the protection of social areas by specifically guaranteeing budget allocation for these sectors, ensuring that fiscal control and budget discipline do not negatively affect the social investment necessary for the country's development.
+
+  - context: |
+      The efficient, effective, and transparent allocation and execution of resources for DRM is as important as having funding sources. Efficiency in public spending refers to the distribution of resources in what generates greater value and therefore achieving the greatest benefit for each dollar available for DRM. Effectiveness, then, implies the fulfillment of the proposed objectives resulting from the implementation of those actions financed with public resources, meaning that the resources allocated for DRM succeed in achieving and generating the desired impact on the target population, either in terms of reducing their level of risk or addressing the human, social, and economic needs that emerge when an event occurs. Thus, transparency in the destination and use of public resources allows identifying and making visible what and how the resources allocated for DRM have been used, linking the management of public institutions with citizens, allowing feedback, evaluation, and continuous improvement.
+    questions_and_answers:
+      - question: What does efficiency in public spending mean in the context of Disaster Risk Management (DRM)?
+        answer: Efficiency in public spending for Disaster Risk Management refers to the distribution of resources in what generates greater value, seeking to achieve the greatest benefit for each dollar available for DRM, thus optimizing the impact of public investment in risk reduction and management.
+      - question: How is effectiveness defined in the execution of resources for Disaster Risk Management?
+        answer: Effectiveness in the execution of resources for DRM implies the fulfillment of the proposed objectives through actions financed with public resources, ensuring that these resources succeed in achieving and generating the desired impact on the target population, either by reducing their level of risk or addressing the human, social, and economic needs that emerge when an event occurs.
+      - question: Why is transparency important in the allocation of resources for Disaster Risk Management?
+        answer: Transparency in the allocation of resources for DRM is important because it allows identifying and making visible what and how the funds allocated for this purpose have been used, establishing a link between the management of public institutions and citizens, which facilitates feedback, evaluation, and continuous improvement of risk management policies and programs.
+
+  - context: |
+      The current budget system by management areas limits the ex-ante identification and comprehensive traceability of public spending on DRM. There is the ability to identify DRM spending carried out by those institutions whose central function has to do with risk prevention, reduction, and response, for example, the General Directorate of Civil Protection, which includes FOPROMID. Notwithstanding the above, it is difficult to distinguish DRM spending carried out by the rest of the public institutions within the framework of the budget structure by management areas.
+    questions_and_answers:
+      - question: What limitation does the current budget system by management areas present in relation to Disaster Risk Management (DRM)?
+        answer: The current budget system by management areas limits the ex-ante identification and comprehensive traceability of public spending on DRM, making it difficult to completely track the resources allocated to disaster risk prevention, reduction, and response in the country.
+      - question: In what cases is it possible to clearly identify spending on Disaster Risk Management within the current budget system?
+        answer: It is possible to clearly identify DRM spending only in those institutions whose central function is related to risk prevention, reduction, and response, such as the General Directorate of Civil Protection, which includes FOPROMID (Fund for Civil Protection, Disaster Prevention and Mitigation).
+      - question: Why is it difficult to determine the total spending on Disaster Risk Management in the public budget?
+        answer: It is difficult to determine the total spending on DRM because, under the budget structure by management areas, DRM spending carried out by public institutions whose main function is not risk management cannot be easily distinguished, which prevents having a complete and integrated view of public investment in this area.
+
+document_outline: |
+  Financial Management Strategy for Disaster Risk. May 2021. Government of El Salvador
+
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "sv/Estrategia-de-Gestion-Financiera-ante-el-Riesgo-de-Desastres_en.pdf"

@@ -1,0 +1,89 @@
+---
+version: 3
+domain: education El Salvador
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      The "Knowing My Achievements" tests are an initiative of the Ministry of Education, which seeks to identify the achievement of indicators established in the current national curriculum, in order to support educational processes in the classroom.
+      This is an assessment that provides information on the state of learning at the school and grade level. It is scheduled at two points in the academic year. The first application, called Diagnostic Assessment "Knowing My Achievements," is conducted at the beginning of the school year and allows identification of the learning with which students begin their new academic grade. The second, simply called "Knowing My Achievements," is applied at the end of the school year and provides information about the level at which students have developed the required skills in the evaluated subjects.
+
+    questions_and_answers:
+      - question: What are the main objectives of the 'Knowing My Achievements' tests?
+        answer: The main objectives of the 'Knowing My Achievements' tests are to identify the achievement of indicators established in the current national curriculum and to support educational processes in the classroom.
+      - question: When is the first application of the 'Knowing My Achievements' assessment conducted?
+        answer: The first application, called Diagnostic Assessment 'Knowing My Achievements,' is conducted at the beginning of the school year.
+      - question: What information does the second application of the 'Knowing My Achievements' tests provide?
+        answer: The second application, simply called 'Knowing My Achievements,' is applied at the end of the school year and provides information about the level at which students have developed the required skills in the evaluated subjects.
+
+  - context: |
+      Cognitive dimensions
+
+      |--------------|---------|
+      | Knowledge    | 66.27 % |
+      | Application  | 64.89 % |
+
+      The cognitive dimension with the highest percentage of correct answers is Knowledge, although the difference with Application is minimal. In the evaluated grade, students demonstrate the development of skills such as: understanding, calculating, comparing, and recalling mathematical concepts, among others, which are fundamental to transcend to the next cognitive level.
+      Based on the previous results in the two evaluated dimensions, the main findings are presented.
+
+    questions_and_answers:
+      - question: Which cognitive dimension has the highest percentage of correct answers in the evaluation?
+        answer: The dimension with the highest percentage of correct answers is Knowledge, with 66.27%.
+      - question: What skills do students show according to the text in relation to the 'Knowledge' cognitive dimension?
+        answer: Students show development in skills such as understanding, calculating, comparing, and recalling mathematical concepts.
+      - question: What is the difference between the percentages of correct answers in Knowledge and Application?
+        answer: The difference between the percentages of correct answers in Knowledge and Application is minimal, with 66.27% for Knowledge and 64.89% for Application.
+
+  - context: |
+      Objective: strengthen the monitoring of compliance with health laws, especially those related to non-recombination and pasteurization of milk.
+      Name: Conduct inspections of dairy processing plants and authorized slaughterhouses.
+      Result: 1,890 plant controls carried out in the departments of Ahuachapán, Sonsonate, La Libertad, Chalatenango, and San Salvador; and in the municipalities of San Francisco Menéndez, Sonsonate, Acajutla, San Julián, Nahulingo, San Juan Opico, La Libertad, Tejutla, and San Salvador.
+      Name: Sample dairy products and by-products to ensure food safety.
+      Result: 282 samplings conducted in the departments of Sonsonate, La Libertad, San Salvador, and La Unión; and in the municipalities of Sonsonate, Acajutla, San Julián, Colón, San Juan Opico, San Salvador, Nejapa, and Pasaquina.
+
+    questions_and_answers:
+      - question: What objective was pursued when conducting inspections of dairy processing plants and authorized slaughterhouses?
+        answer: The objective was to strengthen the monitoring of compliance with health laws, especially those related to non-recombination and pasteurization of milk.
+      - question: In how many departments were the mentioned dairy processing plant controls carried out?
+        answer: |
+          The controls were carried out in five departments: Ahuachapán, Sonsonate, La Libertad, Chalatenango, and San Salvador.
+      - question: How many samplings were conducted to ensure the safety of dairy products and by-products?
+        answer: 282 samplings of dairy products and by-products were conducted in the mentioned departments.
+
+  - context: |
+      Strengths
+      - Associate the reading and writing of natural numbers in different proposed situations.
+      - Solve different situations by performing the addition algorithm with natural numbers of up to three digits without carrying.
+      Challenges
+      - Perform the subtraction algorithm of natural numbers (borrowing), as they determine the result without considering the borrowing of positional value. Also, in some situations, they incorrectly interpret the operation to be performed and perform multiplication as addition.
+      - Recognize flat geometric figures, such as triangles and quadrilaterals, since they confuse curved line segments (non-rectilinear) as sides of these.
+
+    questions_and_answers:
+      - question: What are some of the strengths identified when working with natural numbers?
+        answer: The strengths include associating the reading and writing of natural numbers in different situations, as well as solving problems using the addition algorithm with natural numbers up to three digits without carrying.
+      - question: What challenges are mentioned regarding the subtraction of natural numbers?
+        answer: The challenges are related to correctly performing the subtraction algorithm, especially when borrowing (subtracting from a positional value), as this can lead to an incorrect result. The error of misinterpreting the operation to be performed and confusing addition with multiplication is also mentioned.
+      - question: What difficulties are mentioned when working with flat geometric figures?
+        answer: Problems are mentioned in recognizing flat geometric figures, specifically triangles and quadrilaterals, as they make errors in identifying sides, confusing curved line segments (non-rectilinear) with sides of these figures.
+
+  - context: |
+      Theoretical dimensions
+      The geographical and sociocultural environment of the locality
+      It explores the ability of students to identify specific places in the community based on reference points, as well as the social elements of the geographical landscape of the locality. Additionally, it evaluates the economic benefits provided by roads and means of transportation and the importance of respecting pedestrian norms when traveling on public roads.
+      The items also present contexts where the function of the main means of social communication and the importance of work for the satisfaction of basic needs are explored.
+      Percentage of correct answers 66.49%
+
+    questions_and_answers:
+      - question: What aspects are explored through students in relation to the geographical and sociocultural environment of the locality?
+        answer: The ability of students to identify specific places in the community based on reference points, as well as the social elements of the geographical landscape of the locality, is evaluated.
+      - question: What benefits do the items related to roads and means of transportation evaluate?
+        answer: The items evaluate the economic benefits provided by roads and means of transportation.
+      - question: What is the percentage of correct answers in the theoretical dimensions of the geographical and sociocultural environment of the locality?
+        answer: The mentioned percentage of correct answers is 66.49%.
+
+document_outline: |
+  The "Knowing My Achievements" tests are an initiative of the Ministry of Education, which seeks to identify the achievement of indicators established in the current national curriculum, in order to support educational processes in the classroom. This document presents information on the results obtained from the first application in 2024, with the purpose of having institutions reflect on the effectiveness of their practices based on the strengths and challenges in learning and, at the same time, providing inputs for the Educational Success Plan being implemented in the school year.
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "sv/pruebas_diagnosticas-informe_de_resultados_2024_en.pdf"
