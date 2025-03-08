@@ -1,0 +1,88 @@
+---
+version: 3
+domain: data privacy Mexico
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      Article 1. This Manual is of general and mandatory observance for the Executive and Technical Secretariats, Comptroller's Office, Public Information Office, administrative units, and the Members of the Transparency Committee of the Institute for Access to Public Information and Protection of Personal Data of the Federal District.
+      The purpose of the Manual is to establish the rules by which the Transparency Committee of the Institute for Access to Public Information and Protection of Personal Data of the Federal District is organized and functions, in order to fulfill its responsibilities entrusted in the Law of Transparency and Access to Public Information of the Federal District.
+
+    questions_and_answers:
+      - question: For which areas or entities does the Manual apply as specified in Article 1?
+        answer: The Manual is of general and mandatory observance for the Executive and Technical Secretariats, Comptroller's Office, Public Information Office, administrative units, and the Members of the Transparency Committee of the Institute for Access to Public Information and Protection of Personal Data of the Federal District.
+      - question: What is the purpose of the Manual?
+        answer: The purpose of the Manual is to establish the rules by which the Transparency Committee of the Institute for Access to Public Information and Protection of Personal Data of the Federal District is organized and functions, in order to fulfill its responsibilities entrusted in the Law of Transparency and Access to Public Information of the Federal District.
+      - question: Which institution issues the Transparency Committee mentioned in the Manual?
+        answer: The Transparency Committee mentioned in the Manual belongs to the Institute for Access to Public Information and Protection of Personal Data of the Federal District.
+
+  - context: |
+      Article 8. The members of the Committee may be substituted in their functions by the public servant who occupies the immediate lower hierarchical level, upon prior communication to the President of the Committee, who will have the right to voice and vote. The Comptroller must invariably attend the Committee Sessions.
+
+    questions_and_answers:
+      - question: Can the Committee members be replaced in their functions and by whom?
+        answer: Yes, the Committee members may be replaced in their functions by the public servant who occupies the immediate lower hierarchical level.
+      - question: What rights will the persons who substitute the Committee members have?
+        answer: The persons who substitute the Committee members will have the right to voice and vote within the session.
+      - question: Who must invariably attend the Committee sessions according to the article?
+        answer: The Comptroller must attend invariably and without exception all the Committee sessions according to the article.
+
+  - context: |
+      Article 11. The sessions will be conducted according to the following:
+      I. Verification of the quorum;
+      II. Presentation and approval of the agenda;
+      III. Presentation, discussion of the proposed matters, and
+      IV. Approval of the agreements.
+      The sessions will begin at the indicated time and date, with a tolerance of 20 minutes for the quorum to be formed. If after said term the quorum is not met, the session will proceed to start with the members present.
+
+    questions_and_answers:
+      - question: What elements should be considered in the sessions according to Article 11?
+        answer: According to Article 11, the sessions must include the verification of the quorum, the presentation and approval of the agenda, the presentation and discussion of the proposed matters, and the approval of the agreements.
+      - question: What is the tolerance limit for the quorum to be formed according to the rule mentioned in Article 11?
+        answer: According to Article 11, the sessions will have a tolerance of 20 minutes for the quorum to be formed.
+      - question: What happens if the quorum is not met despite the given tolerance in the sessions?
+        answer: If after the 20 minute term the quorum is not met, the session will proceed to start with the members present as stipulated in Article 11.
+
+  - context: |
+      Article 20. The functions of the heads of the administrative units are:
+      I. To propose, in a reasoned and motivated manner, the classification of information or the declaration of non-existence;
+      II. To incorporate the considerations issued by the Committee in the responses that support the classification of information;
+      III. To conduct an exhaustive search, prior to proposing the non-existence of the information;
+      IV. To propose to the Committee a possible timeframe within which the generation of information would be addressed;
+      V. To support in everything that the Committee proposes for compliance with the provisions of Article 61 of the Law, and
+      VI. Any other tasks entrusted by the Committee;
+
+    questions_and_answers:
+      - question: What are the specific functions of the heads of the administrative units according to Article 20?
+        answer: The specific functions include proposing the classification of information or declaration of non-existence in a reasoned and motivated manner, incorporating considerations from the Committee in responses regarding the classification of information, conducting an exhaustive search before proposing the non-existence of information, proposing a possible timeframe to the Committee for addressing the generation of information, supporting everything proposed by the Committee to comply with the provisions of Article 61 of the Law, and performing other tasks entrusted by the Committee.
+      - question: What must the head of the administrative units do before proposing the non-existence of information?
+        answer: Before proposing the non-existence of information, the head of the administrative units must conduct an exhaustive search.
+      - question: What other tasks can be assigned to the heads of the administrative units according to Article 20?
+        answer: The heads of the administrative units may also be entrusted with other functions by the Committee.
+
+  - context: |
+      Article 22. The obligations of the Committee members are:
+      I. To attend the Committee sessions;
+      II. To suggest to the President of the Committee matters to be dealt with in the Committee sessions;
+      III. To intervene in the Committee discussions;
+      IV. To cast their vote regarding the matters dealt with in the sessions;
+      V. To sign the minutes, agreements, and resolutions approved by the Committee;
+      VI. To perform the tasks entrusted to them by the Committee and report on the progress and fulfillment of those tasks;
+      VII. To ensure compliance with the work program and the agreements and resolutions approved by the Committee, and
+      VIII. To propose the attendance of public servants who, due to the nature of the matters to be dealt with, should be present in the Committee sessions.
+      IX. The Committee members will promote, within the scope of their respective competencies, the coordination and implementation of actions derived from the agreements reached.
+
+    questions_and_answers:
+      - question: What are the obligations of the Committee regarding attendance at its sessions?
+        answer: The obligations of the Committee members include attending the Committee sessions.
+      - question: What type of tasks can be entrusted to the Committee members?
+        answer: The Committee members must perform the tasks entrusted to them by the Committee and report on the progress and fulfillment of those tasks.
+      - question: In what scope could the Committee members promote the coordination and implementation of actions derived from the agreements reached?
+        answer: The Committee members may promote, within the scope of their respective competencies, the coordination and implementation of actions derived from the agreements reached.
+
+document_outline: |
+  Manual of Integration and Operation of the Transparency Committee of the Institute for Access to Public Information and Protection of Personal Data of the Federal District. This document establishes the procedures and guidelines that govern the functioning of the Transparency Committee within the Institute for Access to Public Information and Protection of Personal Data of the Federal District.
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "mx/MIOCTRANSP_en.pdf"

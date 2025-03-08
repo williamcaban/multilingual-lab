@@ -1,0 +1,79 @@
+---
+version: 3
+domain: education Mexico
+created_by: rhelai_bu
+seed_examples:
+  - context: |
+      This curricular proposal is structured with the following four elements:
+      1. Curricular integration, which enables interdisciplinary work based on the problematization of reality and the development of projects where the contents considered fundamental intervene, which are organized in formative fields and articulating axes. In this way, a comprehensive education is promoted that places the educational processes in the context of which the school is a part.
+      2. Professional autonomy of teachers, to make decisions regarding the contextualization of the contents of the study programs, according to the social, territorial, cultural, and educational reality of the students.
+      3. The community as an integrating nucleus of teaching and learning processes, and of the school's relationships with society, where knowledge, values, norms, cultures, and forms of coexistence are built and shared.
+      4. The human right to education of students as a priority of the National Educational System.
+
+    questions_and_answers:
+      - question: How many elements does the curricular proposal mentioned in the text have?
+        answer: The curricular proposal is structured with four elements.
+      - question: What concept is used to describe how contents are organized and which are considered fundamental in this curricular proposal?
+        answer: The contents considered fundamental are organized in formative fields and articulating axes, promoting a comprehensive education based on the problematization of reality.
+      - question: How is the human right to education defined in the curricular proposal?
+        answer: The human right to education of students is identified as a priority of the National Educational System in this curricular proposal.
+
+  - context: |
+      Curricular integration in, from, and with diversities. In basic education, the PPE (Study Plans and Programs) of recent decades privileged a structure based on the disciplinary fragmentation of knowledge, divided into curricular spaces that had no contact with each other. This structure made it difficult to integrate, appropriate, and deepen knowledge and learning in the teaching and learning processes, in addition to making their connection with the experiences of children, adolescents, and teachers complex.
+      On the other hand, certain curricular spaces were prioritized with an inequitable distribution of teaching time; for example, since 2004, in preschool, the greatest emphasis in teaching time was on Language and Communication. In primary and secondary schools, the predominant subjects since 1993 were Spanish and Mathematics, with the highest number of weekly and annual teaching hours compared to the rest of the subjects. This preference was legitimized with the implementation of standardized evaluations and the social pressure exerted by families and educational authorities.
+
+    questions_and_answers:
+      - question: What type of curricular structure was favored with the PPE in recent decades?
+        answer: In recent decades, a structure based on the disciplinary fragmentation of knowledge was favored, divided into curricular spaces that had no contact with each other.
+      - question: Why were these curricular structures considered problematic for the teaching and learning process?
+        answer: These structures made it difficult to integrate, appropriate, and deepen knowledge and learning in the teaching and learning processes.
+      - question: Which subjects experienced an inequitable distribution of teaching time according to the text?
+        answer: Subjects such as Spanish and Mathematics, which predominated since 1993 in primary and secondary schools, received a greater number of weekly and annual teaching hours compared to the rest of the subjects.
+
+  - context: |
+      The new curricular proposal is an excellent opportunity for teachers in Mexico to enjoy the full exercise of our autonomy and design proposals aimed at enabling young people in our country to achieve various learning development processes, based on their needs, preferences, and concerns as members of a close context, which in turn impacts the development of global processes.
+      This proposal also represents the opportunity for teachers to develop creativity and determine the contents to be addressed in the classrooms, with the objective that young people learn what they need to address problems they experience in their daily lives and, in this way, their learning acquires meaning, which will allow them to solve problems in their daily lives through collaborative work and a sense of belonging to the context in which they live.
+
+    questions_and_answers:
+      - question: What opportunity does the new curricular proposal provide for teachers in Mexico?
+        answer: The new curricular proposal is an excellent opportunity for teachers in Mexico to enjoy the full exercise of our autonomy.
+      - question: How could teachers contribute to global development from this curricular proposal?
+        answer: Teachers could contribute to global development by developing creativity and determining the contents to be addressed in the classrooms, with the objective that young people acquire meaning in their learning.
+      - question: What benefits are expected for students with this curricular proposal?
+        answer: Students are expected to acquire relevant knowledge to face everyday problems through collaborative work and a sense of belonging in their context.
+
+  - context: |
+      The New Mexican School has the function of building a harmonious, inclusive, plural, and intercultural society; it is an innovative and realistic educational model that will guide the education of students capable of facing social changes and situations that arise at the individual, family, community, and social levels.
+      María de los Ángeles Guerrero Olvera\nTeacher at "Zelideh Saeb Salinas" Kindergarten\nCiudad Victoria, Tamaulipas
+
+    questions_and_answers:
+      - question: What is the main responsibility of The New Mexican School?
+        answer: The main responsibility of The New Mexican School is to build a harmonious, inclusive, plural, and intercultural society.
+      - question: What type of education does the New Mexican School offer?
+        answer: It is offering an innovative and realistic educational model.
+      - question: For which specific group of students is the Educational Model of The New Mexican School oriented?
+        answer: The Educational Model of The New Mexican School is oriented towards the education of students capable of facing social changes and situations that arise at the individual, family, community, and social levels.
+
+  - context: |
+      From the curricular framework to the 2022 study plan. Voices, controversies, and debates
+      Various authors
+      Perfiles Educativos, 45(180), supplement 2023
+      Institute of Research on the University and Education (2023)
+      In order to contribute new elements to the current discussion on educational reform in Mexico, this journal presents analyses and reflections written by different academics specialized in education, which focus specifically on the topic of curriculum. The works contain critical elements on how the 2022 educational reform will impact the curricular framework that schools will implement and on student learning in the future.
+
+    questions_and_answers:
+      - question: What is the main topic addressed by this edition of the Perfiles Educativos journal?
+        answer: The main topic addressed in this edition of the Perfiles Educativos journal is the educational reform of the curriculum for 2022, focusing on the voices, controversies, and debates surrounding this process.
+      - question: What type of authors present analyses in this publication?
+        answer: The authors who present analyses in this publication are academics specialized in education.
+      - question: In which journal are these analyses and reflections on the educational reform of the curriculum for 2022 presented?
+        answer: These analyses and reflections on the educational reform of the curriculum for 2022 are presented in the Perfiles Educativos journal, a supplement that is part of a broader publication.
+
+document_outline: |
+  Education in movement. Monthly bulletin of the National Commission for the Continuous Improvement of Education. Mexico City. Year 2, no. 20 / August 2023
+
+document:
+  repo: https://github.com/williamcaban/multilingual-lab.git
+  commit: main
+  patterns:
+    - "mx/educacion-en-movimiento-boletin20-2023_en.pdf"
